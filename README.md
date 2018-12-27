@@ -4,3 +4,4 @@
 
 * [Navbar](https://getbootstrap.com/docs/4.0/components/navbar/)
 * [Jumbotron](https://getbootstrap.com/docs/4.0/components/jumbotron/)
+* [Images](https://getbootstrap.com/docs/4.0/content/images/)
