@@ -7,3 +7,5 @@
 * [Images](https://getbootstrap.com/docs/4.0/content/images/)
 * [Cards](https://getbootstrap.com/docs/4.0/components/card/)
 * [Accordion](https://getbootstrap.com/docs/4.0/components/collapse/#accordion-example)
+* [Buttons](https://getbootstrap.com.br/docs/4.0/components/buttons/)
+* [Forms](https://getbootstrap.com/docs/4.0/components/forms/)
